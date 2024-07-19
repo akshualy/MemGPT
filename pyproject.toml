@@ -64,7 +64,7 @@ pydantic-settings = "^2.2.1"
 httpx-sse = "^0.4.0"
 isort = { version = "^5.13.2", optional = true }
 llama-index-embeddings-ollama = {version = "^0.1.2", optional = true}
-protobuf = "^5.27.2"
+protobuf = "^4.21.5"
 
 [tool.poetry.extras]
 local = ["llama-index-embeddings-huggingface"]
